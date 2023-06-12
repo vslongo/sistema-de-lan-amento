@@ -1,0 +1,24 @@
+{
+  "name": "sistema-lancamneto",
+  "version": "1.0.0",
+  "description": "Sistema de lançamento de compras diarias Feito Cão & Gato",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vslongo/sistema-lancamento.git"
+  },
+  "keywords": [
+    "lançamento",
+    "sistema",
+    "loja"
+  ],
+  "author": "Vinícius Slongo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vslongo/sistema-lancamento/issues"
+  },
+  "homepage": "https://github.com/vslongo/sistema-lancamento#readme"
+}
